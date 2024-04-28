@@ -1,3 +1,149 @@
 {
-  "cmake.sourceDirectory": "/Users/haru/Desktop/code/toonfix/linux"
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.formatOnSave": true,
+  "git.autofetch": true,
+  "github.copilot.chat.welcomeMessage": "always",
+  "github.copilot.advanced": {
+    "enabled": true,
+    "useTabNine": true,
+    "useTabNineForSnippets": true,
+    "useTabNineForSuggestions": true,
+    "useTabNineForCompletion": true,
+    "useTabNineForLineSuggestions": true,
+    "useTabNineForLineCompletion": true,
+    "useTabNineForAutocomplete": true,
+    "useTabNineForParameterHints": true,
+    "useTabNineForSignatureHelp": true,
+    "useTabNineForGoToDefinition": true,
+    "useTabNineForFindReferences": true,
+    "useTabNineForShowReferences": true,
+    "useTabNineForRename": true,
+    "useTabNineForHover": true,
+    "useTabNineForDocumentHighlight": true,
+    "useTabNineForDocumentSymbol": true,
+    "useTabNineForWorkspaceSymbol": true,
+    "useTabNineForCodeAction": true,
+    "useTabNineForCodeLens": true,
+    "useTabNineForDocumentFormatting": true,
+    "useTabNineForDocumentRangeFormatting": true,
+    "useTabNineForDocumentLink": true,
+    "useTabNineForColorProvider": true,
+    "useTabNineForFoldingRange": true,
+    "useTabNineForSelectionRange": true,
+    "useTabNineForDeclaration": true,
+    "useTabNineForTypeDefinition": true,
+    "useTabNineForImplementation": true,
+    "useTabNineForCodeLensResolve": true,
+    "useTabNineForDocumentColor": true,
+    "useTabNineForColorPresentation": true,
+    "useTabNineForSemanticTokens": true,
+    "useTabNineForDocumentSemanticTokens": true,
+    "useTabNineForWorkspaceSemanticTokens": true,
+    "useTabNineForLinkedEditingRange": true,
+    "useTabNineForPrepareRename": true,
+    "useTabNineForWillRename": true,
+    "useTabNineForWillRenameWait": true,
+    "useTabNineForDidRename": true,
+    "useTabNineForPrepareCallHierarchy": true,
+    "useTabNineForIncomingCalls": true,
+    "useTabNineForOutgoingCalls": true,
+    "useTabNineForPrepareCallHierarchyWait": true,
+    "useTabNineForCallHierarchy": true,
+    "useTabNineForCallHierarchyIncomingCalls": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "win-ca.inject": "append",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "remote.SSH.remotePlatform": {
+    "vultr_kakao": "linux"
+  },
+  "git.enableSmartCommit": true,
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.env.windows": {},
+  "terminal.integrated.profiles.windows": {
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    },
+    "Git Bash": {
+      "source": "Git Bash"
+    },
+    "Ubuntu-22.04 (WSL)": {
+      "path": "C:\\Windows\\System32\\wsl.exe",
+      "args": ["-d", "Ubuntu-22.04"]
+    }
+  },
+  "notebook.cellToolbarVisibility": "hover",
+  "notebook.formatOnSave.enabled": true,
+  "notebook.output.wordWrap": true,
+  "files.associations": {
+    "*.html": "html"
+  },
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "workbench.editorAssociations": {
+    "*.db": "sqlite-viewer.option"
+  },
+  "python.analysis.autoFormatStrings": true,
+  "cmake.configureOnOpen": true,
+  "explorer.confirmDelete": false,
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.stubPath": "",
+  "workbench.settings.applyToAllProfiles": [
+    "python.analysis.importFormat",
+    "python.analysis.autoImportCompletions",
+    "python.analysis.autoFormatStrings"
+  ],
+  "python.analysis.fixAll": [],
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "python": true
+  },
+  "git-graph.customEmojiShortcodeMappings": [],
+  "emojisense.languages": {
+    "markdown": true,
+    "plaintext": {
+      "markupCompletionsEnabled": true,
+      "emojiDecoratorsEnabled": true
+    },
+    "scminput": true,
+    "git-commit": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "dart.previewFlutterUiGuides": true,
+  "dart.openDevTools": "flutter",
+  "dart.debugExternalPackageLibraries": true,
+  "dart.debugSdkLibraries": false,
+  "editor.snippetSuggestions": "top",
+  "editor.suggest.snippetsPreventQuickSuggestions": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "cmake.options.statusBarVisibility": "icon",
+  "git.openRepositoryInParentFolders": "never",
+  "cmake.showOptionsMovedNotification": false,
+  "jupyter.askForKernelRestart": false,
+  "git.confirmSync": false,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "workbench.startupEditor": "none"
 }
