@@ -23,7 +23,7 @@ class App extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const SizedBox(
-                  height: 30,
+                  height: 80,
                 ),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.end,
